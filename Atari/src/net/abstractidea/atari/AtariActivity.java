@@ -3,6 +3,11 @@ package net.abstractidea.atari;
 import android.app.Activity;
 import android.os.Bundle;
 
+/**
+ * Hello World
+ * 
+ * @author David, Matthew
+ */
 public class AtariActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
